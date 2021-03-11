@@ -1,0 +1,8 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/slide2.jpg);
+	background-size: cover;
+	background-position: center;
+	 padding: 0;
+  margin: 0;
+  
+}
